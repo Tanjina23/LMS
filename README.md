@@ -35,4 +35,6 @@ A simple **Library Management System** built with **PHP**, **MySQL**, **Bootstra
 - Practicing core PHP and MySQL development
 - Understanding form handling and CRUD operations
 
- 
+## 📷 Screenshots
+<img width="945" alt="lms1" src="https://github.com/user-attachments/assets/7504728d-cc7e-4d8b-9812-0a8f89866cac" />
+
